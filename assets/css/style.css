@@ -1,0 +1,100 @@
+body {
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.fondo-navbar {
+    background-color: #28A745 !important;
+}
+
+nav a {
+    color: #ffffff !important;
+}
+
+.card-title {
+    padding: 20px;
+    font-weight: 300;
+}
+
+.card-text {
+    margin-left: 20px;
+    font-weight: 300;
+    color: #707070 !important ;
+}
+
+
+div p {
+    margin-left: 20px;
+    font-weight: 300;
+    
+}
+
+div p i {
+    color: #707070 !important;
+}
+
+.card-body {
+    text-align: right;
+}
+
+.card-link {
+    color: #212529 !important;
+}
+
+.precion {
+    display: inline-block;
+    color: darkgrey;
+    font-weight: 300;
+}
+
+.precioof {
+    display: inline-block;
+    color: #28A745;
+    font-size: 23;
+    font-weight: 500;
+}
+
+.card {
+    margin-bottom: 30px;
+    margin-left: 100px;
+}
+
+span {
+    display: inline-block;
+}
+
+
+.cupon {
+    text-align: center;
+    background-color: #28A745 !important;
+    width: 100%;
+    height: 260px;
+    font-weight: 500;
+}
+
+section h3 {
+    color: #ffffff;
+}
+
+.cuadro {
+    text-align: center;
+    height: 80px;
+    margin-top: 20px;
+    width: 80%;
+    font-weight: 300;
+    color: lightgrey !important;
+}
+
+
+section button {
+    background-color: lightgrey !important;
+    margin-top: 30px;
+}
+
+footer div {
+    text-align: center;
+    width: 100%;
+    height: 150px;
+    padding-top: 20px;
+    color: #707070 !important;
+}
